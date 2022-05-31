@@ -1,6 +1,5 @@
 package cfg;
 import java.util.*;
-import java.util.Scanner;
  
 class CFG {
     public static void main(String args[])
